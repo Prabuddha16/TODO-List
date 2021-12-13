@@ -24,7 +24,7 @@ h1 {
 
 .title{
 	color: rgb(255, 0, 76);
-	text-transform: uppercase;
+	text-transform: none;
 	font-weight: 800;
 }
 
